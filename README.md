@@ -143,6 +143,8 @@ To submit the assignment:
 
 3. If your document has figures included (it should) then they should have been placed in the `figure/` directory by default (unless you overrode the default). Add and commit the `figure/` directory to your git repository.
 
+**NOTE: The figures are in `PA1_template_files/figure-html/`**
+
 4. Push your `master` branch to GitHub.
 
 5. Submit the URL to your GitHub repository for this assignment on the course web site.
